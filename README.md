@@ -1,7 +1,7 @@
 # Arquitetura de cafeteria Dan's Coffee 
 Desafio arquiteto de valor cloud
 
-Vamos construir juntos a arquitetura para a plataforma de pedidos, Dan's Coffee
+Vamos construir juntos a arquitetura para a plataforma de pedidos, Dan's Coffee em Terraform.
 
 
 <img src="/arquitetura.png">
